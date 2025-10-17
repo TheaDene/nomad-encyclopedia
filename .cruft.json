@@ -1,0 +1,28 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin",
+  "commit": "3c5b9b8bfb4c6e91c3f84aa6e5e453f2b721a326",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Thea Denell",
+      "email": "thea.denell@physik.hu-berlin.de",
+      "github_username": "TheaDene",
+      "plugin_name": "nomad-encyclopedia",
+      "module_name": "nomad_encyclopedia",
+      "short_description": "Nomad encyclopedia plugin",
+      "version": "0.1.0",
+      "license": "Apache Software License 2.0",
+      "include_schema_package": true,
+      "include_normalizer": false,
+      "include_parser": false,
+      "include_app": true,
+      "include_example_uploads": false,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin",
+      "_commit": "3c5b9b8bfb4c6e91c3f84aa6e5e453f2b721a326"
+    }
+  },
+  "directory": null
+}
